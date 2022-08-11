@@ -35,7 +35,7 @@
      <a href="https://www.linkedin.com/in/tadeo-maddonni-899836236/" target="blank">
      <img width="100px" height="100px" src="https://github.com/TadeMaddonni/TadeMaddonni/blob/e52a0bf883690cbca7b83dce5963dbd02a9dbdd9/assets/Linkedin-logo-1-550x550-300x300%20(1).png">
      </a>
-     <a href="tadeomaddonni@gmail.com"> 
+     <a href="mailto:tadeomaddonni@gmail.com"> 
       <img width="100px" height="100px" src="https://github.com/TadeMaddonni/TadeMaddonni/blob/b1d5820fee632c5694b2519a0f3e714158ebda1c/assets/gmail.png">
      </a>
   </div>
