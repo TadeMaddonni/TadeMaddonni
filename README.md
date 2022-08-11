@@ -29,7 +29,7 @@
 
 <br>
 
-  <h2 align="center"> 👉 And you can reach me here! </h2>
+  <h2 align="center"> 👉 You can reach me here! </h2>
   
   <div align="center">
      <a href="https://www.linkedin.com/in/tadeo-maddonni-899836236/" target="blank">
