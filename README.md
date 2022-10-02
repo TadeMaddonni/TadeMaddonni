@@ -2,9 +2,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tadeo-maddonni-899836236/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
-  </a>
+  <div> 
+     <a href="https://www.linkedin.com/in/tadeo-maddonni-899836236/" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <div> 
+    <a href="https://portfolio-tadeomaddonni.vercel.app/" target="blank" style="color:#white">
+      Portfolio
+    </a>
+  </div>
+
 </div>
 
 ### <div align="center" > <h1 style="font-size: 40px"> Hi there 👋 I'm Tadeo! </h1></div>
