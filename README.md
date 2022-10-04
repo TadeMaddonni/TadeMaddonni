@@ -21,6 +21,7 @@
   <h2 align="center"> :point_right: Here are some technologies that I use! </h2>
     <div align="center">
       <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/js.png">
+      <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/react.png">
       <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/css.png">
       <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/html.png">
       <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/npm.png">
@@ -32,7 +33,7 @@
   <h2 align="center"> :point_right: And I'm currently learning! </h2>
   
   <div align="center"> 
-    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/react.png">
+    
   </div>
 
 <br>
