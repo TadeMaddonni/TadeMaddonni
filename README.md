@@ -33,7 +33,7 @@
   <h2 align="center"> :point_right: And I'm currently learning! </h2>
   
   <div align="center"> 
-    
+    <img width="100px" height="100px" src="https://github.com/TadeMaddonni/TadeMaddonni/blob/bfefa4312e2bca9e93e82eceedc77b095562f5c6/assets/nodejs.png">
   </div>
 
 <br>
