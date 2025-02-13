@@ -18,25 +18,6 @@
 ### <div align="center" > <h1 style="font-size: 40px"> Hi there 👋 I'm Tadeo! </h1></div>
 
 <br>
-  <h2 align="center"> :point_right: Here are some technologies that I use! </h2>
-    <div align="center">
-      <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/js.png">
-      <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/react.png">
-      <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/css.png">
-      <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/html.png">
-      <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/npm.png">
-      <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/d666ad4ef19988798403524599be0d10f516f0af/assets/git.png">
-    </div>
-
-<br>
-
-  <h2 align="center"> :point_right: And I'm currently learning! </h2>
-  
-  <div align="center"> 
-    <img width="100px" height="100px" src="https://github.com/TadeMaddonni/TadeMaddonni/blob/bfefa4312e2bca9e93e82eceedc77b095562f5c6/assets/nodejs.png">
-  </div>
-
-<br>
 
   <h2 align="center"> 👉 You can reach me here! </h2>
   
